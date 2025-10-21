@@ -8,8 +8,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1",
-      "multer":"latest"
+    "nodemon": "^1.19.1"
   },
   "scripts": {
     "start": "nodemon app.js",
